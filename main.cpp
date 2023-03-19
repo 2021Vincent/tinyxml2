@@ -48,6 +48,7 @@ int main() {
         for(int i=0;i<total;i++){
             outfile <<first_grid[i]<<" "<< ID[i] << "\n";
         }
+        ID.clear();
         std::vector<std::string> grid;
         int i=0;
         XMLElement* layer = map->FirstChildElement("layer");

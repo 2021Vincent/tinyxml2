@@ -25,6 +25,15 @@ all: xmltest staticlib
 
 rebuild: clean all
 
+compile:
+	g++ -o mainexe main.cpp libtinyxml2.a -std=c++17
+run:
+	./mainexe
+runpy:
+	venv/bin/python3 main.py
+
+	
+
 xmltest: xmltest.cpp libtinyxml2.a
 
 effc:
