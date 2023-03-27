@@ -18,7 +18,7 @@ for f in os.listdir("Graphics/Tilesets"):
             box = (j, i, j + 32, i + 32)
             sub_img = tile.crop(box).convert("RGBA")
             # create a new blank image with black background
-            bg = Image.new("RGBA", sub_img.size, (0, 0, 0, 255))
+            bg = Image.new("RGBA", sub_img.size, (204, 255, 0, 255))
             # paste the sub-image onto the blank image
             bg.paste(sub_img, (0, 0), sub_img)
             

@@ -31,7 +31,8 @@ run:
 	./mainexe
 runpy:
 	venv/bin/python3 main.py
-
+runpy2:
+	venv/bin/python3 define.py
 	
 
 xmltest: xmltest.cpp libtinyxml2.a

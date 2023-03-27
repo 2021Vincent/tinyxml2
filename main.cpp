@@ -6,7 +6,7 @@
 #include <sstream>
 #include <vector>
 #include <filesystem>
-
+#include <bitset>
 using namespace tinyxml2;
 int main() {
     XMLDocument doc;
@@ -16,11 +16,11 @@ int main() {
     std::string dir;
     dir= "Output";
     std::filesystem::create_directories(dir);
-    
+    int ii=0;
     for(const auto& f : std::filesystem::directory_iterator("map_pro_tmx")) {
         if(f.path().extension() != ".tmx") continue;
         doc.LoadFile(f.path().string().c_str());
-        std::ofstream outfile(dir+"/"+f.path().stem().string()+ ".txt");
+        std::ofstream outfile(dir+"/"+"map"+std::to_string(ii++)+ ".txt");
         std::cout<<"Map name: "<< f.path().stem().string()<<std::endl;
         //std::cout << "\nmap info:\n----------------------------------\n " << std::endl;
         XMLElement* map = doc.FirstChildElement("map");
@@ -28,6 +28,7 @@ int main() {
         int height = map->IntAttribute("height");
         std::cout << "Tile width: " << width << std::endl;
         std::cout << "Tile height: " << height << std::endl;
+        outfile << f.path().stem().string() << "\n";
         outfile << width << " " << height << "\n";
         //std::cout << "\nmap sources:\n----------------------------------\n " << std::endl;
         XMLElement* tileset = map->FirstChildElement("tileset");
@@ -49,6 +50,7 @@ int main() {
             outfile <<first_grid[i]<<" "<< ID[i] << "\n";
         }
         ID.clear();
+        first_grid.clear();
         std::vector<std::string> grid;
         int i=0;
         XMLElement* layer = map->FirstChildElement("layer");
@@ -69,7 +71,8 @@ int main() {
             int tileid;
             char comma;
             for (int y = 0; y < height; ++y) {
-                for (int x = 0; x < width; ++x) {
+                for (int x = 0; x < width; ++x)
+                 {
                     ss >> tileid >> comma;
                     outfile << tileid;
                     if (x < width - 1) {
