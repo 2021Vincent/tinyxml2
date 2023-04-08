@@ -1,0 +1,633 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "house3_room6.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "全部檔案 (*)",
+    "fileStates": {
+        "house1_basement1.tmx": {
+            "scale": 1.4140624999999998,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 224.8839779005525,
+                "y": 304.44198895027625
+            }
+        },
+        "house1_basement2.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": 128.16666666666666
+            }
+        },
+        "house1_basement3.tmx": {
+            "scale": 2.68671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 175.67897644664146,
+                "y": 160.23262576330328
+            }
+        },
+        "house1_basement4.tmx": {
+            "scale": 2.68671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.0418726373946,
+                "y": 160.23262576330328
+            }
+        },
+        "house1_basement5.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 48.311718522826425,
+                "y": 176.25588833963366
+            }
+        },
+        "house1_hallway1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160,
+                "y": 80.16666666666666
+            }
+        },
+        "house1_hallway2.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176,
+                "y": 80.16666666666666
+            }
+        },
+        "house1_hallway3.tmx": {
+            "scale": 1.9190848214285712,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.49316661820296,
+                "y": 224.3256760686246
+            }
+        },
+        "house1_hallway4.tmx": {
+            "scale": 1.9190848214285712,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 48.46059901134049,
+                "y": 224.3256760686246
+            }
+        },
+        "house1_hallway5.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176,
+                "y": 96.25
+            }
+        },
+        "house1_hallway6.tmx": {
+            "scale": 1.7911458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.62808956091888,
+                "y": 240.34893864495496
+            }
+        },
+        "house1_kitchen.tmx": {
+            "scale": 1.7911458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.60017446932252,
+                "y": 240.34893864495496
+            }
+        },
+        "house1_library.tmx": {
+            "scale": 1.2212357954545452,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 256.2977609770283,
+                "y": 352.5117766792673
+            }
+        },
+        "house1_lobby.tmx": {
+            "scale": 2.0667067307692304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 208.06048269845888,
+                "y": 208.30241349229433
+            }
+        },
+        "house1_room1.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.52573422506546,
+                "y": 176.25588833963366
+            }
+        },
+        "house1_room2.tmx": {
+            "scale": 2.2389322916666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.26519337016572,
+                "y": 192.27915091596395
+            }
+        },
+        "house1_room3.tmx": {
+            "scale": 2.68671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.04652515266065,
+                "y": 160.23262576330328
+            }
+        },
+        "house1_room4.tmx": {
+            "scale": 2.2389322916666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.42337888921196,
+                "y": 192.27915091596395
+            }
+        },
+        "house1_room5.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 112,
+                "y": 80.125
+            }
+        },
+        "house1_room6.tmx": {
+            "scale": 3.3583984375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 64.01861006106427,
+                "y": 128.18610061064263
+            }
+        },
+        "house1_room7.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.52573422506546,
+                "y": 176.25588833963366
+            }
+        },
+        "house1_room8.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.52573422506546,
+                "y": 176.25588833963366
+            }
+        },
+        "house1_room9.tmx": {
+            "scale": 2.9852430555555554,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 112.21866821750508,
+                "y": 144.20936318697298
+            }
+        },
+        "house2_basement1.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 191.6091887176505,
+                "y": 176.25588833963366
+            }
+        },
+        "house2_basement2.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 112.25
+            }
+        },
+        "house2_basement3.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144,
+                "y": 144.33333333333331
+            }
+        },
+        "house2_basement4.tmx": {
+            "scale": 2.68671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.0418726373946,
+                "y": 160.23262576330328
+            }
+        },
+        "house2_basement5.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": 144.25
+            }
+        },
+        "house2_basement6.tmx": {
+            "scale": 1.2212357954545452,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 112.1814480953766,
+                "y": 352.5117766792673
+            }
+        },
+        "house2_basement7.tmx": {
+            "scale": 3.3583984375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.03722012212853,
+                "y": 128.18610061064263
+            }
+        },
+        "house2_basement8.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160,
+                "y": 128.16666666666666
+            }
+        },
+        "house2_basement9.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176,
+                "y": 272.3333333333333
+            }
+        },
+        "house2_hallway1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 224,
+                "y": 96.33333333333331
+            }
+        },
+        "house2_hallway2.tmx": {
+            "scale": 2.0667067307692304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.1907531259087,
+                "y": 208.30241349229433
+            }
+        },
+        "house2_hallway3.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 96,
+                "y": 144.25
+            }
+        },
+        "house2_hallway4.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192,
+                "y": 48.25
+            }
+        },
+        "house2_lobby.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 208,
+                "y": 176.25
+            }
+        },
+        "house2_room1.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 96.21401570223904,
+                "y": 176.25588833963366
+            }
+        },
+        "house2_room2.tmx": {
+            "scale": 2.0667067307692304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.22332073277116,
+                "y": 208.30241349229433
+            }
+        },
+        "house2_room3.tmx": {
+            "scale": 2.68671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.0418726373946,
+                "y": 160.23262576330328
+            }
+        },
+        "house2_room4.tmx": {
+            "scale": 2.9852430555555554,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 112.21866821750508,
+                "y": 144.20936318697298
+            }
+        },
+        "house2_room5.tmx": {
+            "scale": 2.9852430555555554,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 112.21866821750508,
+                "y": 144.20936318697298
+            }
+        },
+        "house2_room6.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 191.6091887176505,
+                "y": 176.25588833963366
+            }
+        },
+        "house2_room7.tmx": {
+            "scale": 2.68671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.03722012212853,
+                "y": 160.23262576330328
+            }
+        },
+        "house2_underpass1.tmx": {
+            "scale": 2.0667067307692304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.60947949985461,
+                "y": 208.30241349229433
+            }
+        },
+        "house2_underpass2.tmx": {
+            "scale": 2.0667067307692304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.60947949985461,
+                "y": 208.30241349229433
+            }
+        },
+        "house3_basement1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 71.33333333333331,
+                "y": 129
+            }
+        },
+        "house3_basement2.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 307.5,
+                "y": 121.75
+            }
+        },
+        "house3_basement3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 176.66666666666663
+            }
+        },
+        "house3_basement4.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240,
+                "y": 208.66666666666663
+            }
+        },
+        "house3_basement5.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 144,
+                "y": 160.33333333333331
+            }
+        },
+        "house3_basement6.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 64,
+                "y": 208.25
+            }
+        },
+        "house3_basement7.tmx": {
+            "scale": 1.3887152777777778,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 242.67033379172398,
+                "y": 190.46380797599696
+            }
+        },
+        "house3_basement8.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 335,
+                "y": 93.25
+            }
+        },
+        "house3_hallway1.tmx": {
+            "scale": 1.580422794117647,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.5347484733934,
+                "y": 272.3954637976156
+            }
+        },
+        "house3_hallway2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144,
+                "y": 288.3333333333333
+            }
+        },
+        "house3_hallway3.tmx": {
+            "scale": 1.9190848214285712,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 254.80895609188718,
+                "y": 223.80459435882526
+            }
+        },
+        "house3_room1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 176,
+                "y": 160.33333333333331
+            }
+        },
+        "house3_room2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160,
+                "y": 160.33333333333331
+            }
+        },
+        "house3_room3.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144,
+                "y": 192.25
+            }
+        },
+        "house3_room4.tmx": {
+            "scale": 2.2389322916666665,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 144.26519337016572,
+                "y": 192.27915091596395
+            }
+        },
+        "house3_room4.tmx#add_more": {
+            "scaleInDock": 1
+        },
+        "house3_room42.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 216.5,
+                "y": 161.25
+            }
+        },
+        "house3_room44.tmx": {
+            "scale": 2.2389322916666665,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 144.26519337016578,
+                "y": 191.83250945042167
+            }
+        },
+        "house3_room5.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 142.88804885141033,
+                "y": 175.84646699621987
+            }
+        },
+        "house3_room5.tmx#room-03-ud": {
+            "scaleInDock": 1
+        },
+        "house3_room52.tmx": {
+            "scale": 2.4424715909090904,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.11631288165168,
+                "y": 176.25588833963366
+            }
+        },
+        "house3_room6.tmx": {
+            "scale": 2.418181818181818,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 252.25563909774436,
+                "y": 229.71804511278197
+            }
+        },
+        "ouside1_1.tmx": {
+            "scale": 1.6803124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.1785382183374,
+                "y": 240.72903105821092
+            }
+        },
+        "ouside1_2.tmx": {
+            "scale": 0.9264547413793103,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.5769118929921,
+                "y": 464.6746147135796
+            }
+        },
+        "res/003-Forest01.tsx": {
+            "scaleInDock": 1
+        },
+        "res/add_more.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "res/room-01-ud.tsx": {
+            "scaleInDock": 1
+        },
+        "res/room-01-udw.tsx": {
+            "scaleInDock": 1
+        },
+        "res/room-01-udw2a.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "res/room-01-udw3.tsx": {
+            "scaleInDock": 1
+        },
+        "res/room-01-udx.tsx": {
+            "scaleInDock": 1
+        },
+        "res/room-01-udy.tsx": {
+            "scaleInDock": 1
+        },
+        "res/room-01-udz.tsx": {
+            "scaleInDock": 1
+        },
+        "res/room-03-ud.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/USER/Desktop/ao_oni/img/Graphics/Tilesets",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "ouside1_1.tmx",
+        "ouside1_2.tmx",
+        "house3_hallway2.tmx",
+        "house3_hallway3.tmx",
+        "house3_room1.tmx",
+        "house3_room2.tmx",
+        "house3_room3.tmx",
+        "house3_room4.tmx",
+        "house3_basement1.tmx",
+        "house3_basement3.tmx",
+        "house3_basement4.tmx",
+        "house3_basement5.tmx",
+        "house3_basement2.tmx",
+        "house3_basement6.tmx",
+        "house3_basement7.tmx",
+        "house3_room6.tmx",
+        "house3_basement8.tmx",
+        "house3_hallway1.tmx",
+        "house3_room5.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "ouside1_1.tmx",
+        "ouside1_2.tmx",
+        "house3_hallway2.tmx",
+        "house3_hallway3.tmx",
+        "house3_room1.tmx",
+        "house3_room2.tmx",
+        "house3_room3.tmx",
+        "house3_room4.tmx",
+        "house3_basement1.tmx",
+        "house3_basement3.tmx",
+        "house3_basement4.tmx",
+        "house3_basement5.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
