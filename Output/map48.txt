@@ -1,4 +1,4 @@
-house3_hallway3
+house3_hallway3 48
 16 14
 2
 1 room-01-udw

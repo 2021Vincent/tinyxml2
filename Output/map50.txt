@@ -1,4 +1,4 @@
-house3_room2
+house3_room2 50
 10 10
 2
 1 room-01-udw

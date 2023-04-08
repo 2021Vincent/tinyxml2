@@ -20,7 +20,7 @@ int main() {
     for(const auto& f : std::filesystem::directory_iterator("map_pro_tmx")) {
         if(f.path().extension() != ".tmx") continue;
         doc.LoadFile(f.path().string().c_str());
-        std::ofstream outfile(dir+"/"+"map"+std::to_string(ii++)+ ".txt");
+        std::ofstream outfile(dir+"/"+"map"+std::to_string(ii)+ ".txt");
         std::cout<<"Map name: "<< f.path().stem().string()<<std::endl;
         //std::cout << "\nmap info:\n----------------------------------\n " << std::endl;
         XMLElement* map = doc.FirstChildElement("map");
@@ -28,7 +28,7 @@ int main() {
         int height = map->IntAttribute("height");
         std::cout << "Tile width: " << width << std::endl;
         std::cout << "Tile height: " << height << std::endl;
-        outfile << f.path().stem().string() << "\n";
+        outfile << f.path().stem().string() <<" "<<ii++<<"\n";
         outfile << width << " " << height << "\n";
         //std::cout << "\nmap sources:\n----------------------------------\n " << std::endl;
         XMLElement* tileset = map->FirstChildElement("tileset");
